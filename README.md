@@ -1,4 +1,4 @@
-![Screenshot 2024-07-04 094608](https://github.com/vijayganeshn96/css-advanced/assets/103403571/ac5877d3-0c84-4085-a182-4ba168984858)# CSS-Advanced
+# CSS-Advanced
 #### index.html
 ```
 <!DOCTYPE html>
